@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "1019755533718",
+    "firebase_url": "https://encoded-source-298916-default-rtdb.firebaseio.com",
+    "project_id": "encoded-source-298916",
+    "storage_bucket": "encoded-source-298916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019755533718:android:22a105fd5d337ad39df9b7",
+        "android_client_info": {
+          "package_name": "com.bitfy.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019755533718-mgbul45q4b579e2guafv6fdq4aeh1upe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitfy.partner",
+            "certificate_hash": "b58d1a345a9c3f5a0886264817c071e26c2a95ee"
+          }
+        },
+        {
+          "client_id": "1019755533718-rdmakboaa03lu8g7g9cd17hhao30pc80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitfy.partner",
+            "certificate_hash": "d051a4636342c76579c46268e57070de72e380b2"
+          }
+        },
+        {
+          "client_id": "1019755533718-kcgvt1cr9afqajfc8s8hgrae6oimo1vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5iXF-7nXsOlI2yKIUcfjuEReZI2YXXqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019755533718-kcgvt1cr9afqajfc8s8hgrae6oimo1vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019755533718:android:c30e2f3caf7de14e9df9b7",
+        "android_client_info": {
+          "package_name": "com.bitfy.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019755533718-sjkc0ho7fs8j5smc4sdf7tmeuitnc8k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitfy.user",
+            "certificate_hash": "8ed827255468db81accfa928f90fcba1f38a6049"
+          }
+        },
+        {
+          "client_id": "1019755533718-tugtl8facta6fo71k3ioi3hk231dikt7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitfy.user",
+            "certificate_hash": "d051a4636342c76579c46268e57070de72e380b2"
+          }
+        },
+        {
+          "client_id": "1019755533718-kcgvt1cr9afqajfc8s8hgrae6oimo1vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5iXF-7nXsOlI2yKIUcfjuEReZI2YXXqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019755533718-kcgvt1cr9afqajfc8s8hgrae6oimo1vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
